@@ -4,7 +4,7 @@ OASIS: A BEAUTY && SPA EXPERIENCE
 PROJECT IS DONE FOR FUTURE READY TALENT INTERNSHIP 2023
 ------------------------------------------------------------------------------------------------------------------------
 PROJECT LINK URL - https://future-ready-talent.web.app/ 
-PROJECT VIDEO DEMO URL - 
+PROJECT VIDEO DEMO URL - https://youtu.be/v9BOAw_-PB0
 -----------------------------------------------------------------------------------------------------------------------
 
 Welcome to our platform, where you can easily search for and compare services offered by a variety of high-quality parlors and spas. We strive to provide you with an excellent experience by offering convenient features to meet your preferences, availability, and budget.
